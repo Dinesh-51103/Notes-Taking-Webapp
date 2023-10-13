@@ -12,7 +12,7 @@ This is a simple web application for taking notes. It is built using HTML, CSS, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/notes-app.git
+git clone https://github.com/Dinesh-51103/Notes-Taking-Webapp.git
 ```
 
 2. Open `index.html` in your preferred web browser.
